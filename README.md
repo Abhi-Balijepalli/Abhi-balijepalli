@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and RBAC on API endpoints**
 
-- 📫 How to reach me **abhibalijepalli@gmail.com**
-
-- 📄 Know about my experiences [abhibalijepalli.com](abhibalijepalli.com)
+- 📄 Know about my experiences [portfolio](www.abhibalijepalli.com)
 
 - ⚡ Fun fact **I do pixel art in my free time**
 
