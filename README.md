@@ -5,8 +5,6 @@
 
 - 🙌 I’m currently working on [Pondr](http://letspondr.com/)
 
-- 💻 I’m currently learning **Kubernetes and RBAC on API endpoints**
-
 - 🤠 Fun fact **I do pixel art in my free time**
 
 
