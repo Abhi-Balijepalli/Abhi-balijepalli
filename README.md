@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-balijepalli&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-balijepalli" /> </p>
 
-- 🔭 I’m currently working on [Pondr](http://letspondr.com/)
+- 🙌 I’m currently working on [Pondr](http://letspondr.com/)
 
-- 🌱 I’m currently learning **Kubernetes and RBAC on API endpoints**
+- 💻 I’m currently learning **Kubernetes and RBAC on API endpoints**
 
-- 📄 Know about my experiences [portfolio](www.abhibalijepalli.com)
-
-- ⚡ Fun fact **I do pixel art in my free time**
+- 🤠 Fun fact **I do pixel art in my free time**
 
 
 <h3 align="left">Languages and Tools:</h3>
