@@ -3,6 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-balijepalli&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-balijepalli" /> </p>
 
-- 🙌 I’m currently working on [Pondr](https://www.letspondr.com)
+- 🙌 I made all the backend for [Pondr](https://www.letspondr.com)
 
 - 🤠 Fun fact **I do pixel art in my free time**
