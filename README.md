@@ -6,4 +6,3 @@
 - 🙌 Currently working on [Platter](https://www.joinplatter.com) (Growing everyday...)
 - 🤓 Talk to me about startups!
 - 🤠 Fun fact **I do pixel art in my free time**
-- 🗣 My blog is coming soon...
